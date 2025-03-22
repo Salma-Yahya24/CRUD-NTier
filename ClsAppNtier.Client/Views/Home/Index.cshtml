@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center mt-5">
+    <h1 class="display-4">Welcome to ClsAppNtier!</h1>
+    <p>This application allows you to manage Products and Categories.</p>
+
+    <div class="mt-4">
+        <a asp-controller="ProductUnitOfWork" asp-action="Index" class="btn btn-primary btn-lg m-2">Manage Products</a>
+        <a asp-controller="CategoryUnitOfWork" asp-action="Index" class="btn btn-success btn-lg m-2">Manage Categories</a>
+    </div>
+</div>

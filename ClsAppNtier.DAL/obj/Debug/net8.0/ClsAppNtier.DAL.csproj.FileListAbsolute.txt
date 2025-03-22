@@ -1,0 +1,15 @@
+C:\Users\Salma\OneDrive\Desktop\ClsAppNtier\ClsAppNtier.DAL\bin\Debug\net8.0\ClsAppNtier.DAL.deps.json
+C:\Users\Salma\OneDrive\Desktop\ClsAppNtier\ClsAppNtier.DAL\bin\Debug\net8.0\ClsAppNtier.DAL.dll
+C:\Users\Salma\OneDrive\Desktop\ClsAppNtier\ClsAppNtier.DAL\bin\Debug\net8.0\ClsAppNtier.DAL.pdb
+C:\Users\Salma\OneDrive\Desktop\ClsAppNtier\ClsAppNtier.DAL\bin\Debug\net8.0\ClsAppNtier.Entities.dll
+C:\Users\Salma\OneDrive\Desktop\ClsAppNtier\ClsAppNtier.DAL\bin\Debug\net8.0\ClsAppNtier.Entities.pdb
+C:\Users\Salma\OneDrive\Desktop\ClsAppNtier\ClsAppNtier.DAL\obj\Debug\net8.0\ClsAppNtier.DAL.csproj.AssemblyReference.cache
+C:\Users\Salma\OneDrive\Desktop\ClsAppNtier\ClsAppNtier.DAL\obj\Debug\net8.0\ClsAppNtier.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salma\OneDrive\Desktop\ClsAppNtier\ClsAppNtier.DAL\obj\Debug\net8.0\ClsAppNtier.DAL.AssemblyInfoInputs.cache
+C:\Users\Salma\OneDrive\Desktop\ClsAppNtier\ClsAppNtier.DAL\obj\Debug\net8.0\ClsAppNtier.DAL.AssemblyInfo.cs
+C:\Users\Salma\OneDrive\Desktop\ClsAppNtier\ClsAppNtier.DAL\obj\Debug\net8.0\ClsAppNtier.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Salma\OneDrive\Desktop\ClsAppNtier\ClsAppNtier.DAL\obj\Debug\net8.0\ClsAppNt.C6BC21F6.Up2Date
+C:\Users\Salma\OneDrive\Desktop\ClsAppNtier\ClsAppNtier.DAL\obj\Debug\net8.0\ClsAppNtier.DAL.dll
+C:\Users\Salma\OneDrive\Desktop\ClsAppNtier\ClsAppNtier.DAL\obj\Debug\net8.0\refint\ClsAppNtier.DAL.dll
+C:\Users\Salma\OneDrive\Desktop\ClsAppNtier\ClsAppNtier.DAL\obj\Debug\net8.0\ClsAppNtier.DAL.pdb
+C:\Users\Salma\OneDrive\Desktop\ClsAppNtier\ClsAppNtier.DAL\obj\Debug\net8.0\ref\ClsAppNtier.DAL.dll
